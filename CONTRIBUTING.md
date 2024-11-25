@@ -8,12 +8,15 @@
 ## Frontend
 ### Надо иметь:
 * Bootstrap 5.3 [Ссылка на пакет](https://getbootstrap.com/docs/5.3/getting-started/download/)
-* IDE ([Visual Studio Code](https://code.visualstudio.com) с дополнениями по вкусу, [WebStorm Non-Commercial](https://www.jetbrains.com/webstorm/download/#section=windows))
+* IDE ([Visual Studio Code](https://code.visualstudio.com) с дополнениями по вкусу, либо [WebStorm Non-Commercial](https://www.jetbrains.com/webstorm/download/#section=windows))
 # Как работать?
 ## Базовые настройки
 > [!NOTE]
 > *Я сомневаюсь, что кто-то в здравом уме будет писать код в блокноте \ консоли, поэтому настройку окружения поясню для PyCharm*
 1. Сделай форк, получишь копию репозитория себе на аккаунт ![image](https://github.com/user-attachments/assets/75bf391b-39ed-4b1a-ba49-573f1ed6aa0f)
+> [!TIP]
+> Для ленивых - в PyCharm есть опция склонировать репозиторий как проект. Можно пропустить пункты 2-6.![image](https://github.com/user-attachments/assets/7993a8b7-21a2-4387-a663-dd29b633f93a)
+
 2. Склонируй полученный репозиторий себе на ПК - в консоли пропиши `git clone <ссылка на форк репозитория .git>`
 3. Открой папку проекта в IDE
 4. Сделай новую ветку под себя ![image](https://github.com/user-attachments/assets/e5c7416a-d2c2-47aa-a4fc-7b25c8b299ab)
