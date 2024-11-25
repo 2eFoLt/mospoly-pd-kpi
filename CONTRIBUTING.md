@@ -24,7 +24,7 @@
 2. Обязательно напиши сообщение к коммиту. Вариант 2 сразу зальёт изменения на твой репозиторий. ![image](https://github.com/user-attachments/assets/276a1c62-cd61-45a8-9af1-99728c5508d3)
 ## Создание pull request-ов
 > [!CAUTION]
-> PR СОЗДАЮТСЯ ТОЛЬКО В ВЕТКУ DEV. КТО БУДЕТ КОММИТИТЬ В ДРУГИЕ ВЕТКИ ИЛИ МАСТЕР - БУДУ БИТЬ
+> PR СОЗДАЮТСЯ ТОЛЬКО В ОТДЕЛЬНЫЕ ВЕТКИ, ПОТОМ В DEV. КТО БУДЕТ КОММИТИТЬ В МАСТЕР - БУДУ БИТЬ
 ![image](https://github.com/user-attachments/assets/b83e7aa4-eb74-4cfc-a2e4-ab9d963b97a9)
 
 Когда сочтёшь задачу выполненной, заходи на свой репозиторий и открывай PR. ![image](https://github.com/user-attachments/assets/98e73787-9a7f-4ec3-a78a-dda578ecc823)
